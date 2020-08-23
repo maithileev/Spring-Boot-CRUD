@@ -12,4 +12,4 @@ The project uses these packages -
 ## To Run the Code - 
 1. Create a MYSQL database 
 2. Update the name in `resources/applications.properties` 
-3. Run the project on the IDE and try out the CRUD operations on `Postman`
+3. Run the project on the IDE and try out the CRUD operations on some API testing tool like `Postman`
