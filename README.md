@@ -7,7 +7,6 @@ The project uses these packages -
 - Spring Data JPA
 - MySQL
 
-***(Frontend part isn't coded yet will upload soon)***
 
 ## To Run the Code - 
 1. Create a MYSQL database 
